@@ -1,5 +1,7 @@
 # Meetup
 
+[![Watch the video](img.youtube.com/vi/ygQmjpqKkTo/maxresdefault.jpg)](https://youtu.be/ygQmjpqKkTo)
+
 ### Install Operator
 
 ```bash
