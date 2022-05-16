@@ -1,6 +1,6 @@
 # Meetup
 
-[![Watch the video](img.youtube.com/vi/ygQmjpqKkTo/maxresdefault.jpg)](https://youtu.be/ygQmjpqKkTo)
+[![Watch the video](https://img.youtube.com/vi/ygQmjpqKkTo/hqdefault.jpg)](https://youtu.be/ygQmjpqKkTo)
 
 ### Install Operator
 
